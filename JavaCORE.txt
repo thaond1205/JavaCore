@@ -1,0 +1,7 @@
+Contructor:
+- Có 2 contructor là: 
+	- contructor không có tham số
+	- contructor có tham số
+- nếu class không tạo contructor thì trình biên dịch sẽ tự tạo contructor mặc định
+- contructor không có kiểu trả về và được gọi ngầm
+- tên contructor phải giống tên class
